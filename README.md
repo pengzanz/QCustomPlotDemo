@@ -1,1 +1,1 @@
-# QCustomPlotDemo
+# QCustomPlot Demo Project
